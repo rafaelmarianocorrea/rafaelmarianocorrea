@@ -38,24 +38,28 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <details>
   <summary ><b>Some projects and exercises</b></summary>
   <br/>
-<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="390" width="390" src="img/tailwindproject.png" alt="my linkedin">
+<a href="https://github.com/rafaelmarianocorrea/Tailwindcss-project">
+    <img height="390" width="390" src="img/tailwindproject.png" alt="tailwind project">
 </a>
 
-<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="390" width="390" src="img/bullionapi.png" alt="my linkedin">
+<a href="https://github.com/rafaelmarianocorrea/django-sass-bullion-api">
+    <img height="390" width="390" src="img/bullionapi.png" alt="django bullion api project">
 </a>
 
-<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="390" width="390" src="img/understore.png" alt="my linkedin">
+<a href="https://github.com/rafaelmarianocorrea/django-ecommerce">
+    <img height="390" width="390" src="img/understore.png" alt="django ecommerce project">
 </a>
 
-<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="390" width="390" src="img/memory.png" alt="my linkedin">
+<a href="https://github.com/rafaelmarianocorrea/js-memory-game">
+    <img height="390" width="390" src="img/memory.png" alt="js memmory game project">
 </a>
 
-<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="390" width="390" src="img/gamebargains.png" alt="my linkedin">
+<a href="https://github.com/rafaelmarianocorrea/py-mongodb-forum">
+    <img height="390" width="390" src="img/gamebargains.png" alt="python flask project">
+</a>
+
+<a href="https://github.com/rafaelmarianocorrea/flexbox-frontendmasters">
+    <img height="390" width="390" src="img/femflex.png" alt="flex exercise">
 </a>
 
 </details>

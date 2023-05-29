@@ -55,7 +55,7 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 </a>
 
 <a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="390" width="390" src="img/understore.png" alt="my linkedin">
+    <img height="390" width="390" src="img/gamebargains.png" alt="my linkedin">
 </a>
 
 </details>

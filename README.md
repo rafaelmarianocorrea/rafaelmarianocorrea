@@ -26,17 +26,21 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <code><img height="40" width="40" src="img/postgresql.svg" alt="postegesql svg"></code>
 <code><img height="40" width="40" src="img/linux.svg" alt="linux svg"></code>
 
-#### Let's connect!
+##### Learning in progress...
+<code><img height="40" width="40" src="img/vue.svg" alt="vue svg"></code>
+<code><img height="40" width="40" src="img/react.svg" alt="react svg"></code>
+<code><img height="40" width="40" src="img/nodejs.svg" alt="node svg"></code>
+ ████████████████████▒░░░░ 
 
-<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
-    <img height="40" src="img/linkedin.svg" alt="my linkedin">
-</a>    
+##### Learning goals
+<code><img height="40" width="40" src="img/typescript.svg" alt="typescript svg"></code>
+<code><img height="40" width="40" src="img/php.svg" alt="php svg"></code>
+<code><img height="40" width="40" src="img/aws.svg" alt="aws svg"></code>
+<code><img height="40" width="40" src="img/mysql.svg" alt="mysql svg"></code>
+<code><img height="40" width="40" src="img/azure.svg" alt="azure svg"></code>
+<code><img height="40" width="40" src="img/net.svg" alt=".net svg"></code>
 
-##### Web3
- 
-<a href="https://twitter.com/jpgmariano">
-    <img height="40" width="30" src="img/twitter.svg" alt="my twitter">
-</a>
+
 
 <details>
   <summary ><b>Some projects and exercises</b></summary>
@@ -66,3 +70,15 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 </a>
 
 </details>
+
+#### Let's connect!
+
+<a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
+    <img height="40" src="img/linkedin.svg" alt="my linkedin">
+</a>    
+
+##### Web3
+ 
+<a href="https://twitter.com/jpgmariano">
+    <img height="40" width="30" src="img/twitter.svg" alt="my twitter">
+</a>

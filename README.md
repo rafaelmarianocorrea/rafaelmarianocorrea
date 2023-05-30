@@ -10,18 +10,21 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 
 #### Languages and Tools
 
-<code><img height="40" width="40" src="img/html5.png" alt="html png"></code>
-<code><img height="40" width="40" src="img/css.png" alt="css png"></code>
-<code><img height="40" width="40" src="img/js.png" alt="js png"></code>
-<code><img height="40" width="40" src="img/sass.png" alt="sass png"></code>
-<code><img height="40" width="40" src="img/tailwing.png" alt=" tailwind png"></code>
-<code><img height="40" width="40" src="img/acessab.png" alt="accessibility png"></code>
+<code><img height="40" width="40" src="img/html5.svg" alt="html svg"></code>
+<code><img height="40" width="40" src="img/css3.svg" alt="css svg"></code>
+<code><img height="40" width="40" src="img/js.svg" alt="js svg"></code>
+<code><img height="40" width="40" src="img/bootstrap.svg" alt="bootstrap svg"></code>
+<code><img height="40" width="40" src="img/sass.svg" alt="sass svg"></code>
+<code><img height="40" width="40" src="img/tailwind.svg" alt=" tailwind svg"></code>
+<code><img height="40" width="40" src="img/Accessibility.svg" alt="accessibility svg"></code>
 <code><img height="40" width="40" src="img/schema.png" alt="schema png"></code>
-<code><img height="40" width="40" src="img/dj.jpg" alt="django png"></code>
-<code><img height="40" width="40" src="img/py.png" alt="python png"></code>
-<code><img height="40" width="40" src="img/docker.png" alt="docker png"></code>
-<code><img height="40" width="40" src="img/mongodb.png" alt="mongodb png"></code>
-<code><img height="40" width="40" src="img/postgresql.png" alt="postegesql png"></code>
+<code><img height="40" width="40" src="img/django.svg" alt="django svg"></code>
+<code><img height="40" width="40" src="img/python.svg" alt="python svg"></code>
+<code><img height="40" width="40" src="img/flask.svg" alt="flask svg"></code>
+<code><img height="40" width="40" src="img/docker.svg" alt="docker svg"></code>
+<code><img height="40" width="40" src="img/mongodb.svg" alt="mongodb svg"></code>
+<code><img height="40" width="40" src="img/postgresql.svg" alt="postegesql svg"></code>
+<code><img height="40" width="40" src="img/linux.svg" alt="linux svg"></code>
 
 #### Let's connect!
 

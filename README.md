@@ -25,7 +25,7 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <code><img height="40" width="40" src="img/mongodb.svg" alt="mongodb svg"></code>
 <code><img height="40" width="40" src="img/postgresql.svg" alt="postegesql svg"></code>
 <code><img height="40" width="40" src="img/linux.svg" alt="linux svg"></code>
-
+<br>
 ##### Learning in progress...
 <code><img height="40" width="40" src="img/vue.svg" alt="vue svg"></code>
 <code><img height="40" width="40" src="img/react.svg" alt="react svg"></code>
@@ -40,6 +40,8 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <code><img height="40" width="40" src="img/mysql.svg" alt="mysql svg"></code>
 <code><img height="40" width="40" src="img/azure.svg" alt="azure svg"></code>
 <code><img height="40" width="40" src="img/net.svg" alt=".net svg"></code>
+<br>
+███▒░░░░░░░░░░░░░░░░░░░░░
 
 
 

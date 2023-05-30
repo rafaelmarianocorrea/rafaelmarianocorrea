@@ -25,6 +25,8 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <code><img height="40" width="40" src="img/mongodb.svg" alt="mongodb svg"></code>
 <code><img height="40" width="40" src="img/postgresql.svg" alt="postegesql svg"></code>
 <code><img height="40" width="40" src="img/linux.svg" alt="linux svg"></code>
+<code><img height="40" width="40" src="img/google_analytics-official.svg" alt="google analytics svg"></code>
+<code><img height="40" width="40" src="img/core.svg" alt="core web vitals svg"></code>
 <br><br><br>
 ##### Learning in progress...
 <code><img height="40" width="40" src="img/vue.svg" alt="vue svg"></code>

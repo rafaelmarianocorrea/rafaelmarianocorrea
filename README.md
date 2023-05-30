@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-I'm Rafael, a junior web developer who loves to create and learn new things. After trying different careers, 
-I discovered that web development was the perfect fit for me. It lets me use both my tech skills and my 
-creativity to build amazing websites and apps.I recently got my level 5 diploma in web development from 
-Code Institute, and I'm currently learning more with Frontend Masters and self-study.
+<p>
+    I'm Rafael, a junior web developer who loves to create and learn new things. After trying different careers, 
+    I discovered that web development was the perfect fit for me. It lets me use both my tech skills and my 
+    creativity to build amazing websites and apps.I recently got my level 5 diploma in web development from 
+    Code Institute, and I'm currently learning more with Frontend Masters and self-study.
+</p>
+
 <hr>
 
   <img align="right" alt="GIF" src="img/final.gif" width="180" height="180" />
@@ -28,7 +31,9 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <code><img height="40" width="40" src="img/google_analytics-official.svg" alt="google analytics svg"></code>
 <code><img height="40" width="40" src="img/core.svg" alt="core web vitals svg"></code>
 <br><br><br>
+
 ##### Learning in progress...
+
 <code><img height="40" width="40" src="img/vue.svg" alt="vue svg"></code>
 <code><img height="40" width="40" src="img/react.svg" alt="react svg"></code>
 <code><img height="40" width="40" src="img/nodejs.svg" alt="node svg"></code>
@@ -45,7 +50,9 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <br>
 ███▒░░░░░░░░░░░░░░░░░░░░░
 
-I recently completed HTML, CSS, SASS, and JavaScript courses through Frontend Masters and Linkedin Learning to enhance my skills. Currently, I'm diving into learning React and Vue.js. I'm ready for bigger challenges that will push me to grow and learn from more experienced developers. My goal is to become a full-stack developer, and I've been investing my time and effort into developing the necessary skills to achieve that.
+<p>
+    I recently completed HTML, CSS, SASS, and JavaScript courses through Frontend Masters and Linkedin Learning to enhance my skills. Currently, I'm diving into learning React and Vue.js. I'm ready for bigger challenges that will push me to grow and learn from more experienced developers. My goal is to become a full-stack developer, and I've been investing my time and effort into developing the necessary skills to achieve that.
+</p>
 
 <details>
   <summary ><b>Latest courses (for more details check my Linkedin!)</b></summary>
@@ -92,13 +99,18 @@ I recently completed HTML, CSS, SASS, and JavaScript courses through Frontend Ma
 </details>
 
 <hr>
+
 #### Let's connect!
+
+<p>If you have any questions or would like to connect, please don't hesitate to reach out to me!</p>
 
 <a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
     <img height="40" src="img/linkedin.svg" alt="my linkedin">
 </a>    
 
 ##### Web3
+
+<p>I'm a Web3 and NFT enthusiast who loves to collect digital art. If you like this subject, follow me on Twitter! </p>
  
 <a href="https://twitter.com/jpgmariano">
     <img height="40" width="30" src="img/twitter.svg" alt="my twitter">

@@ -49,13 +49,14 @@
 <code><img height="40" width="40" src="img/net.svg" alt=".net svg"></code>
 <br>
 ███▒░░░░░░░░░░░░░░░░░░░░░
+<br>
 
 <p>
     I recently completed HTML, CSS, SASS, and JavaScript courses through Frontend Masters and Linkedin Learning to enhance my skills. Currently, I'm diving into learning React and Vue.js. I'm ready for bigger challenges that will push me to grow and learn from more experienced developers. My goal is to become a full-stack developer, and I've been investing my time and effort into developing the necessary skills to achieve that.
 </p>
 
 <details>
-  <summary ><b>Latest courses (for more details check my Linkedin!)</b></summary>
+  <summary ><b>🎓 Latest courses (for more details check my Linkedin!)</b></summary>
   <ul>  
         <li>Getting started with CSS and Javascript</li>
         <li>CSS Grid & Flexbox for Responsive Layouts</li>
@@ -71,7 +72,7 @@
 </details>
 
 <details>
-  <summary ><b>Some projects and exercises</b></summary>
+  <summary ><b>📂 Some projects and exercises</b></summary>
   <br/>
 <a href="https://github.com/rafaelmarianocorrea/Tailwindcss-project">
     <img height="390" width="390" src="img/tailwindproject.png" alt="tailwind project">
@@ -102,7 +103,7 @@
 
 #### Let's connect!
 
-<p>If you have any questions or would like to connect, please don't hesitate to reach out to me!</p>
+<p>If you have any questions  or would like to connect, please don't hesitate to reach out to me!</p>
 
 <a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
     <img height="40" src="img/linkedin.svg" alt="my linkedin">

@@ -30,6 +30,7 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <code><img height="40" width="40" src="img/vue.svg" alt="vue svg"></code>
 <code><img height="40" width="40" src="img/react.svg" alt="react svg"></code>
 <code><img height="40" width="40" src="img/nodejs.svg" alt="node svg"></code>
+<br>
  ████████████████████▒░░░░ 
 
 ##### Learning goals

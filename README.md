@@ -4,7 +4,7 @@ I'm Rafael, a junior web developer who loves to create and learn new things. Aft
 I discovered that web development was the perfect fit for me. It lets me use both my tech skills and my 
 creativity to build amazing websites and apps.I recently got my level 5 diploma in web development from 
 Code Institute, and I'm currently learning more with Frontend Masters and self-study.
-
+<hr>
 
   <img align="right" alt="GIF" src="img/final.gif" width="180" height="180" />
 
@@ -45,7 +45,23 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <br>
 ███▒░░░░░░░░░░░░░░░░░░░░░
 
+I recently completed HTML, CSS, SASS, and JavaScript courses through Frontend Masters and Linkedin Learning to enhance my skills. Currently, I'm diving into learning React and Vue.js. I'm ready for bigger challenges that will push me to grow and learn from more experienced developers. My goal is to become a full-stack developer, and I've been investing my time and effort into developing the necessary skills to achieve that.
 
+<details>
+  <summary ><b>Latest courses (for more details check my Linkedin!)</b></summary>
+  <ul>  
+        <li>Getting started with CSS and Javascript</li>
+        <li>CSS Grid & Flexbox for Responsive Layouts</li>
+        <li>JavaScript: From First Steps to Professional</li>
+        <li>Website Accessibility</li>
+        <li>Advanced CSS Layouts</li>
+        <li>Craft meaningful HTML</li>
+        <li>HTML: Structured Semantic Data</li>
+        <li>Sass Essential Training</li>
+        <li>Inside the WCAG 2.2 accessibility guidelines</li>
+        <li>Tailwind CSS 3 Essential Training</li>
+  </ul>
+</details>
 
 <details>
   <summary ><b>Some projects and exercises</b></summary>
@@ -73,9 +89,9 @@ Code Institute, and I'm currently learning more with Frontend Masters and self-s
 <a href="https://github.com/rafaelmarianocorrea/flexbox-frontendmasters">
     <img height="390" width="390" src="img/femflex.png" alt="flex exercise">
 </a>
-
 </details>
 
+<hr>
 #### Let's connect!
 
 <a href="https://www.linkedin.com/in/rafaelmarianocorrea/">
